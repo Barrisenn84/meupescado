@@ -1,0 +1,38 @@
+======================================================================
+  MEU PESCADO - LINK DE DEMONSTRACAO TOTAL (SEM TRAVAS / SEM LOGIN)
+======================================================================
+
+LINK DE ACESSO DO COMPRADOR / DEMO ONLINE:
+👉 https://fire-considering-jvc-firmware.trycloudflare.com
+
+DOCUMENTAÇÃO COMPLETA DA API (SWAGGER / BACKEND):
+👉 https://fire-considering-jvc-firmware.trycloudflare.com/docs
+
+STATUS:
+- 100% Operacional e Desbloqueado
+- Frontend React 19 + Vite com PWA
+- Backend FastAPI + SQLite + Motor IA ShrimpAI
+- Conexão segura HTTPS Cloudflare Tunnel (Sem necessidade de login ou senha)
+
+MÓDULOS LIBERADOS PARA TESTE DO COMPRADOR:
+1. Painel Geral (Dashboard com biomassa total de 11.465 kg, viveiros ativos e gráficos)
+2. Gestão de Viveiros e Berçários Intensivos
+3. Lotes & Pós-Larvas (Litopenaeus vannamei, teste de estresse salino e aclimatação)
+4. Biometria em Tarrafa (GPD, Repleção intestinal e curvas de crescimento)
+5. Arraçoamento por Bandejas / Comedouros (Diagnóstico inteligente de sobras e apetite)
+6. Qualidade da Água (Oxigênio dissolvido, pH, salinidade, amônia e nitrito)
+7. Sanidade & Registro de Mudas
+8. Despesca & Comercialização (Classes comerciais 80/100, 60/70, 50/60, 40/50 e faturamento)
+9. ShrimpAI Copilot ("Dr. Camarão") - Chat IA com inteligência artificial para carcinicultura
+10. Calculadora Estequiométrica IA de Balanço Iônico (Relação Mg:Ca e Alcalinidade)
+11. Controle de Insumos & Estoque Inteligente (Rações, Insumos químicos e misturas)
+12. Simulador & Integração WhatsApp Bot (Alertas automáticos de parâmetros críticos)
+13. Emissão Fiscal & GTA (NF-e de despesca e rastreabilidade agropecuária)
+14. Equipamentos & Manutenção Preditiva IA (Aeradores, Motores, Bombas e consumo kWh)
+15. Módulo Comercial, Contas Bancárias & Fluxo de Caixa (DRE, DFC, Auditoria Financeira IA)
+16. Minha Fazenda (Dados de João Pessoa / PB, Tábua de Marés ao vivo, Clima e Cotações)
+
+COMO GERAR UM NOVO LINK A QUALQUER MOMENTO:
+- Basta dar 2 cliques no arquivo "iniciar_sistema_publico.bat" na raiz do projeto.
+- O script iniciará o servidor, gerará um novo link HTTPS, copiará para sua área de transferência e abrirá automaticamente no navegador.
+======================================================================

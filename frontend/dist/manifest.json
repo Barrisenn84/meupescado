@@ -1,0 +1,17 @@
+{
+  "name": "Meu Pescado - Gestão Aquícola",
+  "short_name": "Meu Pescado",
+  "description": "Sistema de Gestão e Monitoramento de Viveiros e Piscicultura",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07131e",
+  "theme_color": "#0284c7",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
